@@ -46,10 +46,14 @@
   <a href="https://github.com/PREM-O7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-PREM--O7-blue?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+    <a href="mailto:lalwaniprem077@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-lalwaniprem077@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-</p
+  <a href="https://discord.com/users/614018286107230238" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%3C%40614018286107230238%3E-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
