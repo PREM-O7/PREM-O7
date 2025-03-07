@@ -9,9 +9,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-03d8fa29-3821-472e-8d52-37a7f8ec12ff.gif" width="800px">
 </p>
-
 ---
-
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PREM-O7&theme=radical&no-frame=true&column=7" />
