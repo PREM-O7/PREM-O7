@@ -10,6 +10,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-03d8fa29-3821-472e-8d52-37a7f8ec12ff.gif" width="800px">
 </p>
 
+---
+
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PREM-O7&theme=radical&no-frame=true&column=7" />
@@ -19,6 +21,7 @@
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PREM-O7&theme=radical&hide_border=true" />
 </p>
 
@@ -33,7 +36,7 @@
 
 <h2 align="center">⚡ Tech Stack ⚡</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,django,react,mysql,aws,gcp,heroku,spring,selenium,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,django,react,mysql,aws,gcp,heroku,spring,selenium,photoshop,illustrator" width="600px"/>
 </p>
 
 ---
