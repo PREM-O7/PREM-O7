@@ -15,6 +15,7 @@
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PREM-O7&theme=radical&no-frame=true&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PREM-O7&theme=react-dark" />
 </p>
 
 ---
