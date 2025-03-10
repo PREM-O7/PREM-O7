@@ -22,7 +22,7 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PREM-O7&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PREM-O7&show_icons=true&theme=radical" />
 </p>
 
 ---
