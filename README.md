@@ -24,7 +24,7 @@
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=PREM-O7&show_icons=true&theme=radical" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PREM-O7&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PREM-O7&theme=react-dark&bg_color=0D1117&area_color=FFFFFF&color=58A6FF" />
   <img src="https://streak-stats.vercel.app/?user=PREM-O7&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 
 </p>
