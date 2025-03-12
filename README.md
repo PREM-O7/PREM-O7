@@ -25,7 +25,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=PREM-O7&show_icons=true&theme=radical" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PREM-O7&theme=react-dark" />
-  <img src="https://streak-stats.demolab.com?user=PREM-O7&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.vercel.app/?user=PREM-O7&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </p>
 
